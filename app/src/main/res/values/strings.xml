@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LifeCounter</string>
+    <string name="Player_1">Player 1</string>
+    <string name="Player_2">Player 2</string>
+    <string name="Player_3">Player 3</string>
+    <string name="Player_4">Player 4</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
